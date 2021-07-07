@@ -56,7 +56,7 @@
 ##
 ##
 
-<a href="https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/Khotmams/RAM-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
